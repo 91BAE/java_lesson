@@ -2,7 +2,7 @@ package koreait.day03;
 
 import java.util.Scanner;
 
-public class C08_KeyInput {
+public class C08_KeyInputEx {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int width ;			//사용자가 입력할 값
